@@ -1,0 +1,40 @@
+{
+  "placeholderImages": [
+    {
+      "id": "symptom-checker",
+      "description": "An image of a stethoscope, representing medical diagnosis.",
+      "imageUrl": "https://images.unsplash.com/photo-1659019479941-1fd644624339?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxzdGV0aG9zY29wZSUyMG1lZGljYWx8ZW58MHx8fHwxNzYyMjg5NzQxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "stethoscope medical"
+    },
+    {
+      "id": "wellness-plan",
+      "description": "An image of a person doing yoga in a serene environment, representing wellness.",
+      "imageUrl": "https://images.unsplash.com/photo-1732129514587-bb6099d33c05?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHx5b2dhJTIwd2VsbG5lc3N8ZW58MHx8fHwxNzYyMjg5NzQwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "yoga wellness"
+    },
+    {
+      "id": "mental-health",
+      "description": "An image of a calm and peaceful landscape, representing mental well-being.",
+      "imageUrl": "https://images.unsplash.com/photo-1674275634858-3542101b993f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxjYWxtJTIwcGVhY2V8ZW58MHx8fHwxNzYyMjg5NzQwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "calm peace"
+    },
+    {
+      "id": "drug-interaction",
+      "description": "An image showing different pills and herbs, representing medicine.",
+      "imageUrl": "https://images.unsplash.com/photo-1686059623390-8de7722eb143?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwaWxscyUyMGhlcmJzfGVufDB8fHx8MTc2MjI4OTc0MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "pills herbs"
+    },
+    {
+      "id": "emergency-triage",
+      "description": "An image of an ambulance or emergency sign.",
+      "imageUrl": "https://images.unsplash.com/photo-1619719341796-44c4d2e0eb5a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxlbWVyZ2VuY3klMjBhbWJ1bGFuY2V8ZW58MHx8fHwxNzYyMjg5NzQxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "emergency ambulance"
+    },
+    {
+      "id": "gov-schemes",
+      "description": "An image representing the government of India, like the Ashoka Chakra.",
+      "imageUrl": "https://images.unsplash.com/photo-1695042849689-f682ec337576?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxpbmRpYSUyMGdvdmVybm1lbnR8ZW58MHx8fHwxNzYyMjg5NzQwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "india government"
+    }
+  ]
+}
